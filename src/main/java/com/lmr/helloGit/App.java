@@ -13,6 +13,5 @@ public class App
         System.out.println("第二次修改测试");
         System.out.println("commit");
 	System.out.println("this line is commit by charley");
-		System.out.println("测试与资源同步");
     }
 }
