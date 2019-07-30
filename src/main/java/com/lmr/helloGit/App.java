@@ -12,5 +12,6 @@ public class App
         System.out.println("第一次修改文件");
         System.out.println("第二次修改测试");
         System.out.println("commit");
+        System.out.println("测试与资源同步");
     }
 }
