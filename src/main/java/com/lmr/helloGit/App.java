@@ -24,7 +24,7 @@ public class App
         
         List<String> list = new ArrayList<String>();
         System.out.println(list);
-        System.out.println("aaa");
-        
+        System.out.println("解决冲突");
+
     }
 }
