@@ -19,12 +19,8 @@ public class App
         System.out.println("更新=merge");
         System.out.println("commit by charley again");
         
-        System.out.print("commit by charley again");
-    	
-		System.out.println("cb1f300d-7d63-41f4-a0bc-58a0906c5f97");
-		System.out.println("cb1f300d-7d63-41f4-a0bc-58a0906c5f97");
         
-        List<String> list = new ArrayList<String>();
+        List<String> list = new ArrayList<>();
         System.out.println(list);
     }
 }
