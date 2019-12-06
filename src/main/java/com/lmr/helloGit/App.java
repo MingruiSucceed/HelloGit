@@ -25,6 +25,8 @@ public class App
         List<String> list = new ArrayList<String>();
         System.out.println(list);
         System.out.println("解决冲突");
+        
+        System.out.println("提交2019-12-06");
 
     }
 }
